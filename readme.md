@@ -53,20 +53,3 @@ var config = {
     }
 };
 ```
-
-
-## 截图演示
-<img src="./assets/birthday-demo2.gif"/>
-
-
-
-## QA
-> 如何修改音乐？
-> 
-> 回答：将你自己的mp3音乐文件覆盖`assets`目录下面的`hbd.mp3`, 記住覆蓋后名字要完全一樣哦！
-
-
-## 链接
-* [第一期:爱情树 🌴将相爱的时刻永远珍藏 （微信，QQ可完美查看）](https://github.com/AJLoveChina/LoveTree)
-* [第二期: :cake:改改数据,为心爱的人做一个超具创意的网页生日祝福吧~ (生日快乐)](https://github.com/AJLoveChina/birthday)
-* [第三期: :balloon:塞纳河畔，左岸的咖啡。告白气球，飞入我的心扉。](https://github.com/AJLoveChina/loveBalloon)
